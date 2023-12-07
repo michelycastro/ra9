@@ -52,7 +52,7 @@
           <a-asset-item id="headModel" src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/examples/face-tracking/assets/sparkar/headOccluder.glb"></a-asset-item>
           <a-asset-item id="glassesModel" src="./objetos/mask1.obj"></a-asset-item>
           <a-asset-item id="glassesModel2" src="./objetos/mask2.obj"></a-asset-item>
-          <a-asset-item id="glassesModel2" src="./objetos/oculos/Glasses.gltf"></a-asset-item>
+          <a-asset-item id="glassesModel2" src="./objetos/oculos.obj"></a-asset-item>
         </a-assets>
         <a-camera position="0 0 0" active="false"  look-controls-enabled="false" rotation-reader 
           arjs-look-controls="smoothingFactor: 0.05"></a-camera>
@@ -69,8 +69,8 @@
               scale="0.06 0.06 0.06" src="#glassesModel2" class="glasses2-entity" visible="false"></a-obj-model>
         </a-entity>
         <a-entity mindar-face-target="anchorIndex: 168">
-            <a-gltf-model rotation="0 -0.3 0.15" position="0 0 0" 
-              scale="1 1 1" src="#glassesModel3" class="glasses3-entity" visible="false"></a-gltf-model>
+            <a-obj-model rotation="0 -0.3 0.15" position="0 0 0" 
+              scale="1 1 1" src="#glassesModel3" class="glasses3-entity" visible="false"></a-obj-model>
         </a-entity>        
       </a-scene>
     </div>
