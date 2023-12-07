@@ -1,0 +1,8 @@
+Model Information:
+* title:	Florero1
+* source:	https://sketchfab.com/3d-models/florero1-1f2bde919a20458aab4e68e56a310c26
+* author:	Tony3dtwin (https://sketchfab.com/Tony3dtwin)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

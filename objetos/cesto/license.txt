@@ -1,0 +1,8 @@
+Model Information:
+* title:	Colombian_Basket
+* source:	https://sketchfab.com/3d-models/colombian-basket-3b1b94e935f44bc5a1fdd9067ed12ef7
+* author:	DigitalSystems1 (https://sketchfab.com/DigitalSystems1)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
